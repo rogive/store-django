@@ -54,7 +54,7 @@ ROOT_URLCONF = 'categories_django.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/natik/Dropbox/Fullstack/projects/django/categories_django/categories_django/templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
